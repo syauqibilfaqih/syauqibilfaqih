@@ -5,11 +5,13 @@ Welcome to my GitHub! Here you'll find a collection of my projects and contribut
 
 ## 🚀 Skills
 
-- **Languages:** C/C++, C#, Python, MATLAB, Scilab, LUA
-- **Robotics Frameworks:** ROS, ROS2
-- **CAD Tools:** Autodesk Inventor, Fusion 360, FreeCAD
-- **Simulator:** Gazebo, CoppeliaSim
-- **Machine Learning:** TensorFlow, OpenCV
+- **Language**: Indonesian (Native), English (C1, IELTS)
+- **CAD**: Autodesk Inventor, Fusion 360, FreeCAD, KiCAD, Eagle 
+- **Programming Languages**: C/C++, C#, Python, LUA, Matlab, Scilab 
+- **Libraries**: Pandas, NumPy, ROS, TensorFlow, OpenCV 
+- **IDE**: PlatformIO, Keil, STM32Cube IDE
+- **Robot Simulator**: Gazebo, CoppeliaSim
+- **Middleware**: ROS
 
 ## 📈 GitHub Stats
 
