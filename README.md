@@ -5,7 +5,6 @@ Welcome to my GitHub! Here you'll find a collection of my projects and contribut
 
 ## 🚀 Skills
 
-- **Language**: Indonesian (Native), English (C1, IELTS)
 - **CAD**: Autodesk Inventor, Fusion 360, FreeCAD, KiCAD, Eagle 
 - **Programming Languages**: C/C++, C#, Python, LUA, Matlab, Scilab 
 - **Libraries**: Pandas, NumPy, ROS, TensorFlow, OpenCV 
