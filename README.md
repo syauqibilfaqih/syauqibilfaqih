@@ -17,7 +17,7 @@ Welcome to my GitHub! Here you'll find a collection of my projects and contribut
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syauqibilfaqih&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syauqibilfaqih&hide=javascript,css,scss,html&layout=compact&hide=html&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syauqibilfaqih&layout=compact&hide=javascript,css,scss,html&theme=dark)
 
 ## 📫 Let's Connect
 
