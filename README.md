@@ -12,8 +12,8 @@ Welcome to my GitHub! Here you'll find a collection of my projects and contribut
 ![Eagle](https://img.shields.io/badge/Eagle-orange?logo=autodesk&logoColor=black)
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=grey)
-![C++](https://img.shields.io/badge/C-grey?logo=cplusplus&logoColor=blue)
-![C#](https://img.shields.io/badge/C-purple?logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-grey?logo=cplusplus&logoColor=blue)
+![C#](https://img.shields.io/badge/C#-purple?logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![Lua](https://img.shields.io/badge/Lua-grey?logo=lua&logoColor=blue)
 ![Matlab](https://img.shields.io/badge/Matlab-white.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAABCFBMVEVHcEy1MSrAQSy/NC13FxI6ks03UnnRWzNaobZBj8bhVDXxoTxJls7CNC45jMabLTEidKzsfT31tzxNodrvjD1In9jthj3dYja9PS2/NS3nbTm/NC6WOkTHPS7BMy4nZJUeebREU3xUo9rvmDz0uD31vDz1vTxGltHztT3OVzLBNS5Mks01SGwhbqXIQTCMP0E6YYwnZ5juijzIOS/sfTvhaDeDHBebKyFNodlEmtXqcjqpNidRFCDQTTJjDg1CMEhKk86QIx3BSS7WWjQ/P17sdzxRi8Lxmzzsgju1QCvyvjzzrzzvkzxTgrQ3erBDITclaZvkoTk8ZJLPnjJNWnzolDliLkizcSo9541XAAAAQXRSTlMAdhxh/Fb9DQQS/ijA7idOM55AgoLls5ImlVHEOp/G5NzglL6h7aOb2cXO6EN61uZtqf///////////////////qwfGGUAAAFFSURBVCiRrdLZdoIwEAZgUMDgrrUe16rd94UQsKwiUAVRXLq8/5s01KNVS+46l/nOP2cyCUX9W/GtBNHA81M7RcJi7wslScGXz9XikRBll9LK1wuxlp+Z8sK3T+J6FrtzQ134CP7pC4oPnbnJeB++Ag9HAmx3znGG5AkTETYP8L7DOY5pWMPxaKznavtj9sJQczRJxiikIf0r/NHxYOpoZmhIsi4GGDfz8my2338dvE3fTY2xVBsjgrn1VcFpH1uESxMHPVsUBEWH9W3PH5w5BmPJQ4TRTcPm+m0AYLORcRojyaoeoZiGue1V81d32cgsdWgrolBtNNqwvt0Sn+cLkXk6UsYVfJyib1s7CwK0jHNIEUvrCJ0EO2uo3SDFdd3Spl1ib/uVYBQIVcIPKl9PJmeZeKPA5cU5ySgqUyb+OxwlU0x9A+GrNH9NO/ntAAAAAElFTkSuQmCC)
