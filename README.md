@@ -41,6 +41,6 @@ Welcome to my GitHub! Here you'll find a collection of my projects and contribut
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/syauqibilfaqih/)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsyauqibilfaqih%2F)
 
 Feel free to reach out! 🌟
